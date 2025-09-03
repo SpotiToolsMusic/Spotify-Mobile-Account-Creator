@@ -25,7 +25,6 @@ Spotify Account Creator bot using MOBILE API (OkHttp4) to ensure compatibility w
 
 **
 
-
 https://github.com/user-attachments/assets/12cc4526-cf4f-4251-be0d-fcb21e37a689
 
 
